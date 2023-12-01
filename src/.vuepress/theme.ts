@@ -10,7 +10,10 @@ export default hopeTheme({
     url: "https://halfsweet.cn",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: [
+    "fontawesome-with-brands",
+    "fontawesome"
+  ],
 
   logo: "/logo.svg",
 

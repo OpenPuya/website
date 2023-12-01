@@ -10,8 +10,8 @@ bgImageStyle:
 heroText: OpenPuya
 tagline: 为了弥补官方网站的资料更新不及时，我们将作为一个非官方的资料库，收集普冉半导体公司的产品资料。
 actions:
-  - text: 文档
-    link: ./guide/
+  - text: MCU 文档
+    link: ./mcu/
     type: primary
 
 copyright: false

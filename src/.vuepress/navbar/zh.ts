@@ -15,6 +15,8 @@ export const zhNavbar = navbar([
       "PY32F030xx",
       "PY32F003xx",
       "PY32F002Axx",
+      "PY32F002Bxx",
+      "PY32F07x",
     ],
   }
 ]);

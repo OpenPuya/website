@@ -11,6 +11,10 @@ export const zhNavbar = navbar([
     link: "/mcu/",
     icon: "fa-solid fa-microchip",
     prefix : "/mcu/",
-    children: ["PY32F030xx"],
+    children: [
+      "PY32F030xx",
+      "PY32F003xx",
+      "PY32F002Axx",
+    ],
   }
 ]);

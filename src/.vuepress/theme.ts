@@ -29,7 +29,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "OpenPuya",
 
       displayFooter: true,
 

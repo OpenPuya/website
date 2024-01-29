@@ -1,0 +1,7 @@
+---
+title: PY32F002A Series
+---
+
+The PY32F002A series microcontroller uses a high-performance 32-bit ARM® Cortex®-M0+ core, a wide voltage range MCU. It embeds up to 20Kbytes of flash and 3Kbytes of SRAM memory, with a maximum operating frequency of 24MHz. It includes a variety of products with different packaging types. The chip integrates multiple I2C, SPI, USART and other communication peripherals, 1 12bit ADC, and multiple timers. The operating temperature range of the PY32F002A series microcontroller is -40℃~85℃, and the operating voltage range is 1.7V~5.5V. The chip provides sleep and stop low-power operating modes, which can meet different low-power applications. The PY32F002A series microcontroller is suitable for a variety of application scenarios, such as controllers, handheld devices, PC peripherals, gaming and GPS platforms, industrial applications, etc.
+
+<!-- @include: ../../../data/markdown/PY32F002A/en.md -->

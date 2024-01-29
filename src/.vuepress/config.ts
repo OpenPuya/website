@@ -5,11 +5,11 @@ export default defineUserConfig({
   base: "/",
 
   locales: {
-    // "/en/": {
-    //   lang: "en-US",
-    //   title: "Docs Demo",
-    //   description: "A docs demo for vuepress-theme-hope",
-    // },
+    "/en/": {
+      lang: "en-US",
+      title: "OpenPuya",
+      description: "OpenPuya Documentation Site",
+    },
     "/": {
       lang: "zh-CN",
       title: "OpenPuya",

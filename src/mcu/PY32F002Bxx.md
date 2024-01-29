@@ -7,3 +7,9 @@ PY32F002B 系列微控制器的工作温度范围为-40°C ~ 85°C，工作电�
 PY32F002B 系列微控制器适用于多种应用场景，例如控制器、手持设备、PC外设、游戏和GPS平台、工业应用等。
 
 <!-- @include: ../../data/markdown/PY32F002B/zh_CN.md -->
+
+## 软件支持
+
+### 官方SDK
+
+<https://github.com/OpenPuya/PY32F002B_Firmware>

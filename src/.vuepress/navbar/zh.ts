@@ -21,5 +21,14 @@ export const zhNavbar = navbar([
       "PY32L020xx",
       "PY32F403xx",
     ],
+  },
+  {
+    text: "Tools",
+    link: "/tool/",
+    icon: "fa-solid fa-tools",
+    prefix : "/tool/",
+    children: [
+      "PY32_JFlash_Plugin",
+    ],
   }
 ]);

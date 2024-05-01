@@ -10,7 +10,7 @@ stop 低功耗工作模式，可以满足不同的低功耗应用。
 PY32F002A 系列微控制器适用于多种应用场景，例如控制器、手持设备、PC 外设、游戏和GPS 平台、工
 业应用等。
 
-<!-- @include: ../../data/markdown/PY32F002A/zh_CN.md -->
+<!-- @include: ../../data/markdown/PY32F002A/zh-CN.md -->
 
 ## 软件支持
 

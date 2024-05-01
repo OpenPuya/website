@@ -8,4 +8,4 @@ The operating temperature range of the PY32F002B series microcontroller is -40°
 
 The PY32F002B series microcontrollers are suitable for a wide range of applications, including controllers, handheld devices, PC peripherals, gaming and GPS platforms, industrial applications, and more.
 
-<!-- @include: ../../../data/markdown/PY32F002B/zh_CN.md -->
+<!-- @include: ../../../data/markdown/PY32F002B/zh-CN.md -->

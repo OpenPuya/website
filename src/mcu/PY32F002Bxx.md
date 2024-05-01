@@ -6,7 +6,7 @@ PY32F002B系列微控制器采用高性能的 32 位ARM® Cortex®-M0+内核，�
 PY32F002B 系列微控制器的工作温度范围为-40°C ~ 85°C，工作电压范围 1.7 V ~ 5.5 V。芯片提供sleep/stop低功耗工作模式，可以满足不同的低功耗应用。
 PY32F002B 系列微控制器适用于多种应用场景，例如控制器、手持设备、PC外设、游戏和GPS平台、工业应用等。
 
-<!-- @include: ../../data/markdown/PY32F002B/zh_CN.md -->
+<!-- @include: ../../data/markdown/PY32F002B/zh-CN.md -->
 
 ## 软件支持
 

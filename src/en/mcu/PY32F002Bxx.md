@@ -2,10 +2,12 @@
 title: PY32F002B Series
 ---
 
-The PY32F002B series microcontroller uses a high-performance 32-bit ARM® Cortex®-M0+ core and operates across a wide voltage range. It is embedded with 24 Kbytes of Flash and 3 Kbytes of SRAM storage, with a maximum operating frequency of 24 MHz. The series includes a variety of different package types. The chip integrates communication peripherals such as I2C, SPI, USART, features one 12-bit ADC, two 16-bit timers, and two comparators.
+## Introduction
 
-The operating temperature range of the PY32F002B series microcontroller is -40°C to 85°C, and the operating voltage range is 1.7 V to 5.5 V. The chip provides low power consumption modes such as sleep/stop, suitable for various low-power applications.
+PY32F002B series microcontrollers are MCUs with high performance 32 bits ARM® Cortex®-M0+ core and wide voltage operating range. It has embedded 24 Kbytes Flash and 3 Kbytes SRAM memory，a maximum operating frequency of 24 MHz, and contains various products in different package types. The chip integrates I2C, SPI, USAR and other communication peripherals, one channel 12 bits ADC，two16bit timers，and two channel comparators.
 
-The PY32F002B series microcontrollers are suitable for a wide range of applications, including controllers, handheld devices, PC peripherals, gaming and GPS platforms, industrial applications, and more.
+PY32F002B series microcontrollers’working temperature ranges from -40°C to 85°C with operating voltage from1.7 V ~ 5.5 V. The chip provides sleep and stop low-power operating modes for different low-power applications.
 
-<!-- @include: ../../../data/markdown/PY32F002B/zh-CN.md -->
+PY32F002B series microcontrollers are suitable for various applications, such as controllers, portable devices, PC peripherals, gaming and GPS platforms, industrial applications.
+
+<!-- @include: ../../../data/markdown/PY32F002B/en.md -->
